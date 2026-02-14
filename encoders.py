@@ -32,4 +32,3 @@ class ImageEncoderTinyCNN(nn.Module):
 
 
 
-x = ImageEncoderTinyCNN()
