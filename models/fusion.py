@@ -3,7 +3,7 @@
 encodings from our various modalities (image, text, state).
 More generally this module also decides HOW information is blended
 across the different modalities but the implementation here
-is trivial (concatenation)"""
+is trivial (concatenation   )"""
 
 import torch
 import torch.nn as nn
